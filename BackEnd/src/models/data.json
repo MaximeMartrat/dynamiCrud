@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "username": "bidule",
+      "password": "bidule1",
+      "email": "bidule@hotmail.fr"
+    },
+    {
+      "id": 6,
+      "username": "bidule",
+      "password": "bidule1",
+      "email": "bidule@hotmail.fr"
+    },
+    {
+      "id": 7,
+      "username": "bidule",
+      "password": "bidule1",
+      "email": "bidule@hotmail.fr"
+    }
+  ],
+  "voitures": [
+    {
+      "id": 1,
+      "marque": "bidule1",
+      "modèle": "bidulequifaitviuuouhh"
+    },
+    {
+      "id": 3,
+      "marque": "bidule2",
+      "modèle": "bidulequifaitwraammmmm"
+    },
+    {
+      "id": 4,
+      "marque": "truc1",
+      "modèle": "trucquifaitdubruit"
+    },
+    {
+      "id": 5,
+      "marque": "truc2",
+      "modèle": "trucquifaitvroom"
+    }
+  ]
+}
